@@ -4,7 +4,7 @@
 
 window.$docsify = {
   name: "环境环保建议书",
-  repo: "https://teawlili.github.io/green-proposal/",
+  /*repo: "https://teawlili.github.io/green-proposal/",*/
   auto2top: true,
   loadSidebar: true,
   mergeNavbar: true,
